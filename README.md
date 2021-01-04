@@ -30,5 +30,3 @@ Demo: https://drive.google.com/file/d/1G6P2DPea94YkAc2DNFr3PuH7PIAzaCzz/view?usp
 ![](scraping.jpg)
 
 ![](kmeansv.png)
-
-![](accuracy.png)
