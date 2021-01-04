@@ -9,7 +9,7 @@ After that we selected the attributes that we will use in the modeling which was
 
 And we developed a website with the framework Django where we deployed our model.
 
-✅ BeatifulSoup, Python, Numpy, Pandas, Scikitlearn, Django, Bootstrap, Scrum, Unsupervised Learning Clustering Algorithms.
+✅ Keywords: Python, Numpy, Pandas, ScikitLearn, Django, BeatifulSoup, Bootstrap, Scrum, Unsupervised Learning Clustering Algorithms.
 
 
 ![](web0.JPG)
