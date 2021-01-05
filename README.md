@@ -1,4 +1,4 @@
-# Scholarship-Recommendation-System
+# Scholarship Recommendation System
 
 This project is done with Edutest which is a Tunisian startup that connects pupils and students to universities and scholarships around the world.
 In this internship, we were responsible for creating a recommendation system based on unsupervised learning that helps students to get the most interesting scholarship according to their preferences.
@@ -13,6 +13,7 @@ And we developed a website with the framework Django where we deployed our model
 
 
 Demo: https://drive.google.com/file/d/1G6P2DPea94YkAc2DNFr3PuH7PIAzaCzz/view?usp=sharing
+
 
 
 ![](web0.JPG)
