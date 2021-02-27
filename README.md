@@ -12,7 +12,7 @@ And we developed a website with the framework Django where we deployed our model
 ✅ Keywords: Python, Numpy, Pandas, ScikitLearn, Django, BeatifulSoup, Bootstrap, Scrum, Unsupervised Learning Clustering Algorithms.
 
 
-Demo: https://drive.google.com/file/d/1G6P2DPea94YkAc2DNFr3PuH7PIAzaCzz/view?usp=sharing
+Demo: https://youtu.be/9aIWrmgt91I
 
 
 
